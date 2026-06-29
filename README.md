@@ -54,9 +54,9 @@ class ShihabJagrala extends FlutterDeveloper {
 
 **State Management**
 
-![BLoC](https://img.shields.io/badge/BLoC-2563EB?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-2563EB?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Backend & Database**
 
@@ -72,61 +72,9 @@ class ShihabJagrala extends FlutterDeveloper {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-ffffff?style=flat&logo=android-studio&logoColor=blue)
 
 </div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🍽️ RestroPOS** — _Capstone Project_
-
-Fault-tolerant offline-first Restaurant POS for desktop, tablet & mobile. Works with zero internet — bills, KOT printing, and multi-device sync all handled locally.
-
-`Flutter` `Drift/SQLite` `NestJS` `Redis` `Socket.io`
-
-</td>
-<td width="50%" valign="top">
-
-**🏘️ Village Fund App** — _Live in Production_
-
-Real mobile app used by a village community to track fund collections, member contributions and expenses — replaced paper-based records entirely.
-
-`Flutter` `Supabase` `PostgreSQL` `REST APIs`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**☪️ Deeniyat** — _In Development_
-
-Islamic companion app with prayer times, Quran reader, Qibla, and AI-powered tools. Glassmorphism UI with offline-first Isar database.
-
-`Flutter` `BLoC` `Riverpod` `Isar` `Supabase` `GoRouter`
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-### 💼 Experience
-
-**Flutter Developer @ Aavatto Solutions** _(1.5 Years)_
-
-> Worked as the **primary Flutter developer**, independently building and shipping production apps to Play Store & App Store for real clients — Mio Amore 🎂, CAPE for Health 🧠, Tykkit 🎟️
-
----
 
 ### 📊 GitHub Stats
 
