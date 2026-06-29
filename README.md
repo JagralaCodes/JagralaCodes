@@ -20,9 +20,9 @@
 ```dart
 class ShihabJagrala extends FlutterDeveloper {
 
-  final String location     = "Mira Road, Mumbai 📍";
+  final String curruntLocation     = "Mira Road, Mumbai 📍";
   final String degree       = "B.Tech Computer Engineering @ Silver Oak University";
-  final String gpa          = "9.2 / 10 ⭐";
+  final String gpa          = "8.9 / 10 ⭐";
   final String status       = "Open to Work 🟢";
 
   final List<String> currentlyBuilding = [
